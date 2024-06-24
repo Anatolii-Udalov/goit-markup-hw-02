@@ -1,0 +1,87 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #212121;
+    font-size: 14px;
+    background-color: #fafafa;
+    line-height: 1.5;
+}
+
+header {
+    background: #fafafa url(images/Top\ line\ bg.png);
+}
+
+.studio {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    color: #212121;
+}
+
+.portfolio {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    color: #212121;
+}
+
+
+.contacts {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    color: #212121;
+
+}
+
+.mail {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    color: #212121;
+}
+
+.tel {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    color: #212121;
+}
+
+main {
+    background: #fafafa url(images/main-bg.png);
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 64px;
+    color: #fafafa;
+    background: url(images/Darkmain-bg.png);
+    text-align: justify;
+    text-shadow: 2px 2px 4px black;
+}
+
+.button {
+    background-color: #5D50DD;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+
+}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 32px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-align: justify;
+}
+
+footer {
+    background: #212121 url(images/Dark-bg.png);
+    color: white;
+}
